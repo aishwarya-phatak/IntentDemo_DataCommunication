@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IntentDemo_DataCommunication</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_in">Sign In</string>
+    <string name="next">Next</string>
+</resources>
